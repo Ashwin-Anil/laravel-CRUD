@@ -26,4 +26,4 @@
     php artisan serve
     ```
 
-## View the info about dependencies in composor.json file
+#### View the info about dependencies in composor.json file
