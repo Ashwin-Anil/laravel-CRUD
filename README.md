@@ -1,11 +1,29 @@
-Laravel CRUD using API and in Normal Route Method
+# Laravel CRUD using API and in Normal Route Method
 
-step 1 : Install XAMPP, COMPOSER,VS CODE
-step 2 : Install Postman (for Api Testing)
-step 3 : Download laravel-CRUD from here :  and extract it
-step 4 : Place the file on path: xampp/htdocs/
-step 5 : open the extracted folder in VS code
-step 6 : create database in xampp and configure the file '.env' in the project open in vs code
-       [change db name, username, password are used in .env file of project CRUD ]
-step 7 : migrate the table using this command [use it on vscode terminal]: php artisan migrate 
-step 8 : run server using this command : php artisan serve
+## Prerequisites
+- Install XAMPP, COMPOSER, VS CODE
+- Install Postman (for API Testing)
+
+## Installation Steps
+1. Download [laravel-CRUD](git@github.com:Ashwin-Anil/laravel-CRUD.git) and extract it.
+2. Place the extracted folder in the path: `xampp/htdocs/`.
+3. Open the extracted folder in VS Code.
+
+## Database Configuration
+4. Create a database in XAMPP.
+5. Configure the file `.env` in the project opened in VS Code.
+    - Change the database name, username, and password in the `.env` file of the CRUD project.
+
+## Migration
+6. Migrate the table using the following command in the VS Code terminal:
+    ```bash
+    php artisan migrate
+    ```
+
+## Run Server
+7. Run the server using the following command:
+    ```bash
+    php artisan serve
+    ```
+
+Now, you should have a well-organized README with clear sections and properly formatted instructions. Adjust the formatting as needed for your preferences.
