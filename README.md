@@ -1,4 +1,4 @@
-# Laravel CRUD using API and in Normal Route Method
+# Laravel CRUD using API and Normal Route Method
 
 ## Prerequisites
 - Install XAMPP, COMPOSER, VS CODE
