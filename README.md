@@ -26,4 +26,4 @@
     php artisan serve
     ```
 
-Now, you should have a well-organized README with clear sections and properly formatted instructions. Adjust the formatting as needed for your preferences.
+## View the info about dependencies in composor.json file
